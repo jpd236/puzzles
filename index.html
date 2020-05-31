@@ -15,7 +15,7 @@ title: Home
     <span class="post-date">
       {{ post.date | date_to_string }}
       {% if post.comments != false %}
-       - <a href="{{ post.url | absolute_url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">0 comments</a>
+       - <a href="{{ post.url | absolute_url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">0 Comments</a>
       {% endif %}
     </span>
 
