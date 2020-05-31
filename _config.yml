@@ -1,22 +1,25 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Puzzles
+tagline:             'by Jeff Davidson'
+description:         'Mostly mini variety word puzzles by <a href="https://twitter.com/jpdavidson" target="_blank">@jpdavidson</a>.'
+url:                 https://puzzles.jeffpdavidson.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jeff Davidson
+  url:               https://twitter.com/jpdavidson
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
