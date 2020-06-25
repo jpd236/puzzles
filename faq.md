@@ -53,8 +53,7 @@ I use [XWord](https://mrichards42.github.io/xword/), an open-source
 cross-platform crossword app which supports JPZ files. It's very customizable,
 supports all kinds of puzzles, looks sharp on high-density displays, and since
 it's open-source, I've been able to contribute bug fixes and new features over
-the years to (hopefully) make it even better. There hasn't been an official
-release in a while, but I'm hoping there'll be one soon.
+the years to (hopefully) make it even better.
 
 You can also try the [Crossword Nexus](https://www.crosswordnexus.com/solve/)
 solver if you don't want to use an app - this is what I use to embed puzzles
