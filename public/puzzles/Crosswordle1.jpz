@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crossword-compiler-applet xmlns="http://crossword.info/xml/crossword-compiler-applet">
+  <applet-settings cursor-color="#00b100" selected-cells-color="#80ff80">
+    <completion only-if-correct="true">Congratulations! The puzzle is solved correctly.</completion>
+    <actions buttons-layout="left">
+      <reveal-word label="Reveal Word"/>
+      <reveal-letter label="Reveal Letter"/>
+      <check label="Check"/>
+      <solution label="Solution"/>
+      <pencil label="Pencil"/>
+    </actions>
+  </applet-settings>
+  <rectangular-puzzle xmlns="http://crossword.info/xml/rectangular-puzzle">
+    <metadata>
+      <title>Crosswordle #1</title>
+      <creator>Jeff Davidson</creator>
+      <copyright>© 2022</copyright>
+    </metadata>
+    <crossword>
+      <grid width="5" height="6">
+        <grid-look numbering-scheme="normal"/>
+        <cell x="1" y="1" solution="M" number="1"/>
+        <cell x="2" y="1" solution="A" number="2" background-color="#c9b458"/>
+        <cell x="3" y="1" solution="G" number="3"/>
+        <cell x="4" y="1" solution="I" number="4"/>
+        <cell x="5" y="1" solution="C" number="5"/>
+        <cell x="1" y="2" solution="A" number="6"/>
+        <cell x="2" y="2" solution="L"/>
+        <cell x="3" y="2" solution="A" background-color="#6aaa64"/>
+        <cell x="4" y="2" solution="N"/>
+        <cell x="5" y="2" solution="A"/>
+        <cell x="1" y="3" solution="N" number="7"/>
+        <cell x="2" y="3" solution="O"/>
+        <cell x="3" y="3" solution="T"/>
+        <cell x="4" y="3" solution="E"/>
+        <cell x="5" y="3" solution="S" background-color="#c9b458"/>
+        <cell x="1" y="4" solution="I" number="8"/>
+        <cell x="2" y="4" solution="H" background-color="#6aaa64"/>
+        <cell x="3" y="4" solution="O"/>
+        <cell x="4" y="4" solution="P" background-color="#c9b458"/>
+        <cell x="5" y="4" solution="E"/>
+        <cell x="1" y="5" solution="C" number="9"/>
+        <cell x="2" y="5" solution="A" background-color="#c9b458"/>
+        <cell x="3" y="5" solution="R" background-color="#c9b458"/>
+        <cell x="4" y="5" solution="T"/>
+        <cell x="5" y="5" solution="S" background-color="#c9b458"/>
+        <cell x="1" y="6" solution="S" number="10" top-bar="true" background-color="#6aaa64"/>
+        <cell x="2" y="6" solution="H" top-bar="true" background-color="#6aaa64"/>
+        <cell x="3" y="6" solution="A" top-bar="true" background-color="#6aaa64"/>
+        <cell x="4" y="6" solution="R" top-bar="true" background-color="#6aaa64"/>
+        <cell x="5" y="6" solution="P" top-bar="true" background-color="#6aaa64"/>
+      </grid>
+      <word id="1">
+        <cells x="1" y="1"/>
+        <cells x="2" y="1"/>
+        <cells x="3" y="1"/>
+        <cells x="4" y="1"/>
+        <cells x="5" y="1"/>
+      </word>
+      <word id="6">
+        <cells x="1" y="2"/>
+        <cells x="2" y="2"/>
+        <cells x="3" y="2"/>
+        <cells x="4" y="2"/>
+        <cells x="5" y="2"/>
+      </word>
+      <word id="7">
+        <cells x="1" y="3"/>
+        <cells x="2" y="3"/>
+        <cells x="3" y="3"/>
+        <cells x="4" y="3"/>
+        <cells x="5" y="3"/>
+      </word>
+      <word id="8">
+        <cells x="1" y="4"/>
+        <cells x="2" y="4"/>
+        <cells x="3" y="4"/>
+        <cells x="4" y="4"/>
+        <cells x="5" y="4"/>
+      </word>
+      <word id="9">
+        <cells x="1" y="5"/>
+        <cells x="2" y="5"/>
+        <cells x="3" y="5"/>
+        <cells x="4" y="5"/>
+        <cells x="5" y="5"/>
+      </word>
+      <word id="10">
+        <cells x="1" y="6"/>
+        <cells x="2" y="6"/>
+        <cells x="3" y="6"/>
+        <cells x="4" y="6"/>
+        <cells x="5" y="6"/>
+      </word>
+      <word id="1001">
+        <cells x="1" y="1"/>
+        <cells x="1" y="2"/>
+        <cells x="1" y="3"/>
+        <cells x="1" y="4"/>
+        <cells x="1" y="5"/>
+      </word>
+      <word id="1002">
+        <cells x="2" y="1"/>
+        <cells x="2" y="2"/>
+        <cells x="2" y="3"/>
+        <cells x="2" y="4"/>
+        <cells x="2" y="5"/>
+      </word>
+      <word id="1003">
+        <cells x="3" y="1"/>
+        <cells x="3" y="2"/>
+        <cells x="3" y="3"/>
+        <cells x="3" y="4"/>
+        <cells x="3" y="5"/>
+      </word>
+      <word id="1004">
+        <cells x="4" y="1"/>
+        <cells x="4" y="2"/>
+        <cells x="4" y="3"/>
+        <cells x="4" y="4"/>
+        <cells x="4" y="5"/>
+      </word>
+      <word id="1005">
+        <cells x="5" y="1"/>
+        <cells x="5" y="2"/>
+        <cells x="5" y="3"/>
+        <cells x="5" y="4"/>
+        <cells x="5" y="5"/>
+      </word>
+      <clues>
+        <title>
+          <b>Across</b>
+        </title>
+        <clue word="1" number="1">Johnson or Orlando of the NBA</clue>
+        <clue word="6" number="6">
+          <span>Haim sister who made her movie debut in </span>
+          <i>Licorice Pizza</i>
+        </clue>
+        <clue word="7" number="7">Some might be 10-Across</clue>
+        <clue word="8" number="8">🙏🙏🙏</clue>
+        <clue word="9" number="9">Don't put them before horses, or so they say</clue>
+        <clue word="10" number="10">-</clue>
+      </clues>
+      <clues>
+        <title>
+          <b>Down</b>
+        </title>
+        <clue word="1001" number="1">Frenzied</clue>
+        <clue word="1002" number="2">"___ Spirit", defined in Hawaiian law as "the coordination of mind and heart within each person"</clue>
+        <clue word="1003" number="3">Croc's cousin (not the shoe)</clue>
+        <clue word="1004" number="4">Butterfingered</clue>
+        <clue word="1005" number="5">Containers for some Cabernets</clue>
+      </clues>
+    </crossword>
+  </rectangular-puzzle>
+</crossword-compiler-applet>
